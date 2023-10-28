@@ -1,0 +1,16 @@
+#restore{
+    color: white;
+    background: linear-gradient(to right, #0e67c7 0%,#7d59ff 100%);
+    border: 2px solid #bebebe;
+    border-radius: 4px;
+}
+#restore:hover{
+    background: linear-gradient(to right, #0f79eb 0%,#9273ff 100%);
+}
+#restore:active{
+    background: linear-gradient(to right, #0b53a0 0%,#553dad 100%);
+}
+body{
+    width: 150px;
+    height: 150px;
+}
